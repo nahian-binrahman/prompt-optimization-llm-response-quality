@@ -1,4 +1,3 @@
-# prompt-optimization-llm-response-quality
 
 # 🚀 Prompt Optimization and Evaluation for Improving LLM Response Quality
 
